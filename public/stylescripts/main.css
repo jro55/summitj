@@ -1,0 +1,29 @@
+.md-toolbar-tools h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+  color: black;
+}
+
+.md-toolbar-tools .md-button {
+    color: black !important;
+}
+
+.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+  color: black; 
+}
+
+.mainIntro {
+    background-image: url('../images/mountain.JPG');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+}
+
+.downArrow {
+    font-size: 48px;
+}
+
+.material-icons.md-48 { font-size: 72px; }
+

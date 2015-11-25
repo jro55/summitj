@@ -1,0 +1,26 @@
+{
+  "name": "navbar-material",
+  "version": "1.0.0",
+  "description": "",
+  "main": "i.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellelaforte/navbar-material.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellelaforte/navbar-material/issues"
+  },
+  "homepage": "https://github.com/daniellelaforte/navbar-material#readme",
+  "dependencies": {
+    "angular-carousel": "^1.0.1",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "material-design-icons": "^2.0.0",
+    "mongoose": "^4.1.12"
+  }
+}
